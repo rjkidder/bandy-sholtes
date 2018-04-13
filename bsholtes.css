@@ -1,0 +1,97 @@
+
+@font-face {
+  font-family: "Oswald"
+  font-family: "Lora"
+  src: url("https://fonts.googleapis.com/css?family=Lora|Oswald");
+}
+
+body {
+	background-color: #fff;
+	font-family: 'Lora', serif;
+  font-size: large;
+  margin: 0px;
+}
+
+header.top {
+  background-color: #000;
+  margin: 0px 0px 0px 0px;
+  height: 70px;
+}
+
+
+div#tableContainer {
+  display: table;
+  border-spacing: 0px;
+  padding-left:    0px;
+  padding-right:   0px;
+}
+
+div#tableRow {
+  display: table-row;
+}
+
+section#books {
+  display: table-cell;
+  background-color: #FFF;
+  width: 30%;
+  padding: 15px;
+  vertical-align: top;
+}
+
+section#blog {
+  display: table-cell;
+  background: #E5E8E8;
+  font-size: 105%
+  padding: 15px;
+  vertical-align: top;
+}
+
+section#events {
+  display: table-cell;
+  background-color: #FFF;
+  font-size: 105%;
+  width: 30%;
+  padding: 15px;
+  vertical-align: top;
+}
+
+a:link {
+  color:            #CF4344;
+  text-decoration:  none;
+  border-bottom:    thin dotted #b76666;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+}
+
+footer {
+  background-color: #fff;
+  color:            #000;
+  text-align:       center;
+  padding:          0px;
+  margin: 0px 0px 0px 0px;
+  font-size:        75%;
+}
+
+
+nav {
+    background-color: #FFF;
+	margin: 10px 10px 0px 10px;
+}
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+}
+nav ul li {
+	display: inline;
+	padding: 5px 10px 5px 10px;
+}
+nav ul li a:link, nav ul li a:visited {
+	color: #954b4b;
+	border-bottom: none;
+	font-weight: bold;
+
+/*font-family: 'Lora', serif;*/
+/*font-family: 'Oswald', sans-serif;*/
