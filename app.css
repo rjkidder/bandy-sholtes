@@ -1,5 +1,5 @@
 body {
-    background: whitesmoke;
+    
     font-family: "Lora", serif;
 }
 
@@ -13,16 +13,19 @@ body {
     font-family: "Oswald", sans-serif;
     font-weight: 100;
     font-size: 1.0rem;
+    padding-right: 50px;
 }
 
 #mainNavbar .nav-link:hover {
-    color: #FF00FF;
+    color: #AE2B55;
 }
 
 #mainNavbar .navbar-brand {
     color: white;
     font-family: "Indie Flower", cursive;
-    font-size: 3.0rem;
+    font-size: 2.5rem;
+    padding-left: 100px;
+
 }
 
 #mainNavbar .navbar-brand:hover {
@@ -31,6 +34,10 @@ body {
 
 #headingGroup span {
     color: #EA1C2C;
+}
+
+#books {
+   display:  table-cell;
 }
 
 #headingGroup h1 {
@@ -49,7 +56,7 @@ body {
 }
 
 .footer {
-    background-color:#2a2a2a;
+    background-color:#343A40;
     padding: 20px;
     color: white;
     font-display: "Lora", serif;
