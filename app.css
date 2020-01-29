@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
     background: whitesmoke;
-=======
-    
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
     font-family: "Lora", serif;
 }
 
@@ -17,30 +13,26 @@ body {
     font-family: "Oswald", sans-serif;
     font-weight: 100;
     font-size: 1.0rem;
-<<<<<<< HEAD
+
 }
 
 #mainNavbar .nav-link:hover {
     color: #FF00FF;
-=======
     padding-right: 50px;
 }
 
 #mainNavbar .nav-link:hover {
     color: #AE2B55;
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
 }
 
 #mainNavbar .navbar-brand {
     color: white;
     font-family: "Indie Flower", cursive;
-<<<<<<< HEAD
+
     font-size: 3.0rem;
-=======
+
     font-size: 2.5rem;
     padding-left: 100px;
-
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
 }
 
 #mainNavbar .navbar-brand:hover {
@@ -51,13 +43,9 @@ body {
     color: #EA1C2C;
 }
 
-<<<<<<< HEAD
-=======
 #books {
    display:  table-cell;
 }
-
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
 #headingGroup h1 {
     font-weight: 100;
     font-size: 4rem;
@@ -68,7 +56,6 @@ body {
     transition: background 500ms;
 }
 
-<<<<<<< HEAD
 .fullcard {
     width: 100px;
     border: 1px solid #CCC;
@@ -88,15 +75,13 @@ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 ;
   }
 
-=======
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
 .jumbotron {
     background-color: purple;
     color: white;
 }
 
 .footer {
-<<<<<<< HEAD
+
     background-color:#2a2a2a;
 =======
     background-color:#343A40;
@@ -114,10 +99,9 @@ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
         font-size: 3rem;
     }
     }
-<<<<<<< HEAD
+
 }
-=======
->>>>>>> 3291a46be71dc3ad210cdefb25b68ef607ce6005
+
 
 
 
